@@ -1,0 +1,13 @@
+.rodapie {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem 0;
+  font-size: 0.9rem;
+}
+
+.rodapie__texto {
+  margin: 0.3rem 0;
+  text-align: center;
+}
